@@ -1,7 +1,7 @@
 # SOC.DeNoise
   This repository consists of the work progress done by me during the Seasons Of Code 2022, Summer project.<br />
 WEEK 0: <br />
-  Python Basics and Github<br />
+  &ensp Python Basics and Github<br />
 WEEK 1:<br />
   Google Machine Learning Course<br /> 
 WEEK 2:<br />
