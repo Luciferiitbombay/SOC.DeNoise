@@ -15,3 +15,5 @@ WEEK 4:<br />
   &ensp;AutoEncoder Model Implementation<br />
 WEEK 5:<br />
   &ensp;SEGAN Papers<br />
+WEEK 6:<br />
+ &ensp;Implemented SEGAN
